@@ -135,7 +135,7 @@ def check_dataset():
     """Check if dataset exists"""
     print("\n📊 Checking dataset...")
     
-    csv_path = "data/cocktails.csv"
+    csv_path = "data/final_cocktails.csv"
     if os.path.exists(csv_path):
         print(f"✅ Dataset found at {csv_path}")
         
