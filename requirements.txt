@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-psycopg2-binary
-pgvector
-sentence-transformers
-scikit-learn
-python-dotenv
-requests
