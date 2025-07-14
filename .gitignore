@@ -216,3 +216,4 @@ __marimo__/
 *.npy
 *.csv
 *.json
+.env.supabase
