@@ -155,7 +155,7 @@ aio2025_cocktail_suggestions/
 ├── .env.example         # Environment variables template
 ├── data/                # Dataset directory
 │   ├── README.md
-│   └── cocktails.csv    # (Download required)
+│   └── final_cocktails.csv    # (Download required)
 └── README.md           # This file
 ```
 
