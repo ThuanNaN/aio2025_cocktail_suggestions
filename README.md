@@ -2,6 +2,13 @@
 
 An intelligent cocktail recommendation system using vector databases and AI embeddings to suggest the perfect drinks based on your preferences.
 
+## 🚀 Live Demos
+
+[![Streamlit App](https://img.shields.io/badge/🍹_Streamlit-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cocktail-suggestions.streamlit.app/)
+[![Gradio App](https://img.shields.io/badge/🍸_Gradio-Demo-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)](https://huggingface.co/spaces/thuanan/cocktail_suggestions)
+
+> 🎯 **Try the live demos above to explore cocktail recommendations without any setup!**
+
 ## 🎯 Project Overview
 
 This project creates a smart cocktail recommendation system that
@@ -31,6 +38,8 @@ This project creates a smart cocktail recommendation system that
 - **Language**: Python 3.8+
 
 ## 🚀 Quick Start
+
+> **💡 Want to try it first?** Check out our [live demos](#-live-demos) above for instant access without any setup!
 
 ### Option 1: Docker (Recommended)
 
